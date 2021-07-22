@@ -6,7 +6,7 @@ Meu primeiro projeto criado usando React.
 
 Com mentoria da Gama Academy, desenvolvi o projeto como parte de uma série de atividades avaliativas para permanência nas próximas etapas do bootcamp Hiring Coders #2, realizado em conjunto pela VTEX, Gama Academy e parceiros.
 
-Este segundo desafio consiste em criar um projeto que tem por finalidade a consulta à informações fornecidas por um array de objetos, API ou banco de dados para estruturação destes dados de maneira ordenada no Local Storage do navegador. 
+Este segundo desafio consiste em criar um projeto que tem por finalidade a consulta à informações fornecidas por um arquivo JSON, API ou banco de dados para estruturação destes dados de maneira ordenada no Local Storage do navegador. 
 
 Seguindo orientação do instrutor, preparei toda estrutura do projeto e por fim, tive a oportunidade de modificar o que julgasse necessário para adequar o projeto as minhas ideias. Desta forma tive a oportunidade de por em prática o aprendizado dos módulos, disponibilizados no portal da Gama Academy, ministrados até o momento.
 
